@@ -1,0 +1,16 @@
+# Node / React
+weather-ui/node_modules/
+weather-ui/dist/
+weather-ui/.env
+
+# .NET
+weather.api/bin/
+weather.api/obj/
+weather.api/*.user
+weather.api/*.vs
+weather.api/*.vscode
+weather.api/appsettings*.json
+
+# OS
+.DS_Store
+Thumbs.db
